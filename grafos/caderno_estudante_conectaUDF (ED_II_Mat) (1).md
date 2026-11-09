@@ -1,3 +1,5 @@
+RESOLUÇÂO NO FINAL DO DOCUMENTO
+
 # Caderno do Estudante
 # Projeto ConectaUDF: redes sociais com grafos
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
@@ -164,7 +166,8 @@ Duas pessoas ainda não são amigas, mas têm três amigos em comum. Como essa i
 
 ## Resolucão do desafio
 <img width="1350" height="825" alt="grafo_original" src="https://github.com/user-attachments/assets/2193288b-8749-404d-8e14-892668c544ca" />
-<img width="1350" height="825" alt="grafo_original" src="https://github.com/user-attachments/assets/fcf8006e-7519-47fb-a0ec-d925ee60241b" />
+<img width="1350" height="825" alt="grafo_ampliado (1)" src="https://github.com/user-attachments/assets/e7d2fb75-c38e-4cf9-9901-61c644cf5b76" />
+
 
 ```Python
 from collections import deque
