@@ -161,3 +161,6 @@ Entregue:
 
 ## 12. Pergunta de reflexão
 Duas pessoas ainda não são amigas, mas têm três amigos em comum. Como essa informação poderia ser usada para sugerir uma nova conexão? Quais cuidados de privacidade devem ser considerados ao analisar redes sociais?
+
+## Resolucão do desafio
+
